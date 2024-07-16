@@ -1,0 +1,256 @@
+The results of Entry10 
+The precision of the algorithm is : 0.9759036144578314
+The recall of the algorithm is : 0.5757575757575757
+The F1 of the algorithm is : 0.6817862165963432
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.961038961038961
+The recall of the algorithm is : 0.7083333333333334
+The F1 of the algorithm is : 0.7708019105077928
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7736263736263737
+The recall of the algorithm is : 0.43999999999999995
+The F1 of the algorithm is : 0.5250127877237852
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20149974424552433
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6522896698615549
+The recall of the algorithm is : 0.3466666666666667
+The F1 of the algorithm is : 0.4005121704899112
+The numRowsofConfusionMatrix of the algorithm is : 6.0
+The newbudget of the algorithm is : 0.39634543310354825
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.4932170542635659
+The recall of the algorithm is : 0.33771929824561403
+The F1 of the algorithm is : 0.38925838762122406
+The numRowsofConfusionMatrix of the algorithm is : 6.0
+The newbudget of the algorithm is : 0.39436903106504384
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9558823529411764
+The recall of the algorithm is : 0.75
+The F1 of the algorithm is : 0.8008064516129032
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.5597411003236246
+The recall of the algorithm is : 0.4291666666666667
+The F1 of the algorithm is : 0.46070675960447394
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20278586480791055
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9126602564102564
+The recall of the algorithm is : 0.5151515151515151
+The F1 of the algorithm is : 0.6058201058201058
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7621978021978022
+The recall of the algorithm is : 0.5047619047619049
+The F1 of the algorithm is : 0.5667041619797525
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20066591676040502
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7442822777976733
+The recall of the algorithm is : 0.6316777452393122
+The F1 of the algorithm is : 0.6691739862727276
+The numRowsofConfusionMatrix of the algorithm is : 11.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.377941602403968
+The recall of the algorithm is : 0.27453024872379717
+The F1 of the algorithm is : 0.2754850632609546
+The numRowsofConfusionMatrix of the algorithm is : 9.0
+The newbudget of the algorithm is : 0.20649029873478092
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7337081885407886
+The recall of the algorithm is : 0.5809040194025539
+The F1 of the algorithm is : 0.6372854332069284
+The numRowsofConfusionMatrix of the algorithm is : 10.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.745595846414998
+The recall of the algorithm is : 0.6353207705633329
+The F1 of the algorithm is : 0.6745497557218946
+The numRowsofConfusionMatrix of the algorithm is : 11.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6502732240437158
+The recall of the algorithm is : 0.3444444444444444
+The F1 of the algorithm is : 0.41995073891625617
+The numRowsofConfusionMatrix of the algorithm is : 6.0
+The newbudget of the algorithm is : 0.2036009852216749
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.2748387096774193
+The recall of the algorithm is : 0.22293814432989692
+The F1 of the algorithm is : 0.21513496645342486
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20769730067093153
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.2748387096774193
+The recall of the algorithm is : 0.22293814432989692
+The F1 of the algorithm is : 0.21513496645342486
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20769730067093153
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7422134669761011
+The recall of the algorithm is : 0.6365132474944489
+The F1 of the algorithm is : 0.674140872732257
+The numRowsofConfusionMatrix of the algorithm is : 11.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7422134669761011
+The recall of the algorithm is : 0.6365132474944489
+The F1 of the algorithm is : 0.674140872732257
+The numRowsofConfusionMatrix of the algorithm is : 11.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7422134669761011
+The recall of the algorithm is : 0.6365132474944489
+The F1 of the algorithm is : 0.674140872732257
+The numRowsofConfusionMatrix of the algorithm is : 11.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7150537634408602
+The recall of the algorithm is : 0.4427083333333333
+The F1 of the algorithm is : 0.5083877858758482
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2018322442824831
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7150537634408602
+The recall of the algorithm is : 0.4427083333333333
+The F1 of the algorithm is : 0.5083877858758482
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2036812741605196
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7150537634408602
+The recall of the algorithm is : 0.4427083333333333
+The F1 of the algorithm is : 0.5083877858758482
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2036812741605196
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.7620689655172413
+The recall of the algorithm is : 0.6
+The F1 of the algorithm is : 0.639492600422833
+The numRowsofConfusionMatrix of the algorithm is : 5.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6741071428571428
+The recall of the algorithm is : 0.5787037037037037
+The F1 of the algorithm is : 0.5801948051948052
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20039610389610396
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6741071428571428
+The recall of the algorithm is : 0.5787037037037037
+The F1 of the algorithm is : 0.5801948051948052
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2007929922836904
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6741071428571428
+The recall of the algorithm is : 0.5787037037037037
+The F1 of the algorithm is : 0.5801948051948052
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2007929922836904
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6741071428571428
+The recall of the algorithm is : 0.5787037037037037
+The F1 of the algorithm is : 0.5801948051948052
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2007929922836904
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.6741071428571428
+The recall of the algorithm is : 0.5787037037037037
+The F1 of the algorithm is : 0.5801948051948052
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.2007929922836904
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9730392156862745
+The recall of the algorithm is : 0.625
+The F1 of the algorithm is : 0.7274179620034542
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9730392156862745
+The recall of the algorithm is : 0.625
+The F1 of the algorithm is : 0.7274179620034542
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9730392156862745
+The recall of the algorithm is : 0.625
+The F1 of the algorithm is : 0.7274179620034542
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
+The results of Entry10 
+The precision of the algorithm is : 0.9730392156862745
+The recall of the algorithm is : 0.625
+The F1 of the algorithm is : 0.7274179620034542
+The numRowsofConfusionMatrix of the algorithm is : 4.0
+The newbudget of the algorithm is : 0.20000000000000004
+-------------------------------
+
